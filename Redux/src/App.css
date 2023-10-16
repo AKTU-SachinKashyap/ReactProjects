@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  background-color: rgb(216, 230, 232); 
+}
+
+/* 
+.M{
+  width: 300px;
+  background-color: aqua;
+  display: flex;
+  gap: 4;
+  grid-column: 3;
+  box-shadow:rgb(18, 75, 124);
+  height: 400px;
+  padding: 3px;
+} */
+/*
+.p{
+  width: 100%;
+  display: flex;
+}
+.S{
+  min-height: 200px;
+  box-shadow: 300px;
+} */
